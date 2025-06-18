@@ -15,7 +15,6 @@ A **console-based Employee Management System** built using **Java**, **JDBC**, a
 - [Tech Stack](#-tech-stack)
 - [Setup Instructions](#-setup-instructions)
 - [Project Structure](#-project-structure)
-- [Screenshots](#-screenshots)
 - [Contributing](#-contributing)
 - [License](#-license)
 - [Author](#-author)
